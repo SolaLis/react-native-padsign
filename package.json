@@ -1,0 +1,26 @@
+
+{
+  "name": "react-native-padsign",
+  "version": "1.0.0",
+  "description": "A ReactNative tablets Component for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "tablets"
+  ],
+  "author": "ljx",
+  "license": "1306966795@qq.com",
+  
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
